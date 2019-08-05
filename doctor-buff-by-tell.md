@@ -8,7 +8,9 @@ You only need to run the alias once per session. Change all instances of "name" 
 
 ```
 /alias :a /alias name /ui action toolbarPane04;/pause 4;/ui action toolbarPane05
+
 /alias :b /alias name /setmood
+
 /alias ll /target
 ```
 
