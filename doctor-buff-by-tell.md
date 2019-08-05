@@ -15,7 +15,7 @@ You only need to run the alias once per session. Change all instances of `<name>
 ```
 
 ## Macro
-Create the following macros exactly as written. Change all instances of `<name>` to your character's name.
+Create the following macros exactly as written. Replace `<name>` with your character's name.
 
 ### docStart
 Starts macros running.
@@ -40,7 +40,7 @@ Respect the server spam rules and don't advertise more often than every 3 minute
 ```
 
 ### docResponse
-Checks to see if someone sent a tell. Change all instances of `<name>` to your character's name.
+Checks to see if someone sent a tell. Replace`<name>` with your character's name.
 
 ```
 /ui action startChatReply;
