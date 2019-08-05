@@ -62,9 +62,6 @@ Checks to see if someone sent a tell. Change all instances of `<name>` to your c
 
 ### docBuff
 Runs buff cycle.
-* If you put a Medical Droid on `toolbarPane05` > `toolbarSlot10` it will be called and dismissed when there is a valid buff customer.
-* Put Bivoli  on `toolbarPane05` > `toolbarSlot09` to consume Bivoli when there is a valid customer.
-* Put Havla on `toolbarPane05` > `toolbarSlot08` to consome Havla when there is a valid customer.
 
 ```
 /:b;
@@ -110,13 +107,14 @@ Runs buff cycle.
 ## UI settings
 
 ### Toolbar
-
-* Set fifth pane, toolbarSlot11 to the docBUFF macro.
-* Set fifth pane, toolbarSlot11 to Empty.
-* Set sixth pane, toolbarSlot10 to your Medical Droid.
-* Set sixth pane, toolbarSlot09 to your Bivoli. 
-* Set sixth pane, toolbarSlot08 to your Havla.
-
+* Drag `docBuff` macro to `toolbarPane05` > `toolbarSlot11`
+* If you put a Medical Droid on `toolbarPane05` > `toolbarSlot10` it will be called and dismissed when there is a valid buff customer.
+* Put Bivoli  on `toolbarPane05` > `toolbarSlot09` to consume Bivoli when there is a valid customer.
+* Put Havla on `toolbarPane05` > `toolbarSlot08` to consome Havla when there is a valid customer.
+* Ensure `toolbarPane04` > `toolbarSlot11` is empty. 
+* Ensure `toolbarPane04` > `toolbarSlot10` is empty. 
+* Ensure `toolbarPane04` > `toolbarSlot09` is empty. 
+* Ensure `toolbarPane04` > `toolbarSlot08` is empty. 
 
 ### Bio
 In `Community > Character > Biography` set an appropriate message.
@@ -144,9 +142,7 @@ Thank you for your support!
 I have crafted a Healthpack and named it "Bacta" as my no-buff target. 
 
 ### Droid
-You want a droid deployed with battery power and a Medical Module Rating: 110. 
-
-Drag your droid to `toolbarPane05` > `toolbarSlot09`
+You want a droid deployed with battery power and a Medical Module Rating: 110. It does not need to be grouped.
 
 ## Food
 Food is critical to a doctor maximizing the application of their buffs. 
