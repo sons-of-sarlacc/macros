@@ -9,12 +9,12 @@ This macro will find a target every 15 seconds and throw an intimidate at it. It
 ### afk
 ```
 /tar self;
-/pause .5;
+/pause 1;
 /ui action cycleTargetOutward;
-/pause .5;
+/pause 1;
 /intimidate;
 /pause 1;
 /attack;
-/pause 13;
+/pause 12;
 /macro afk;
 ```
