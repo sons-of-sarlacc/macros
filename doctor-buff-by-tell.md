@@ -4,7 +4,7 @@
 Built on the shoulders of wookies. This macro will doctor buff on tell. Needs improvement for eating bivoli and havla. 
 
 ## Alias
-You only need to run the alias once per session. Change all instances of `<name>` to your character's name.
+You only need to run the alias once per session. Replace `<name>` with your character's name.
 
 ```
 /alias :a /alias <name> /ui action toolbarPane04;/pause 4;/ui action toolbarPane05
