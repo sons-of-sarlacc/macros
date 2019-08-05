@@ -153,10 +153,10 @@ You want a droid deployed with battery power and a Medical Module Rating: 110. I
 Food is critical to a doctor maximizing the application of their buffs. 
 
 ### Bivoli
-Bivoli increses your Wound Treatment Skill Mod. Drag your Bivoli to `toolbarPane05` > `toolbarSlot08`. You do not need to adjust your macro to benefit from Bivoli as it increases the potency of the buffs.
+Bivoli increses your Wound Treatment Skill Mod. No change is necessary to benefit from Bivoli as it increases the potency of the buffs.
 
 ### Havla
-Havla increases your Wound Treatment Speed Skill Mod. The above macro does not yet have optimised timings for Havla consumption. Drag your Havla to `toolbarPane05` > `toolbarSlot07` and you will need to adjust the timings in docBuff between all the `healEnhance` calls. 
+Havla increases your Wound Treatment Speed Skill Mod. The above macro does not yet have optimised timings for Havla consumption. You will need to adjust the timings in `docBuff` between all the `healEnhance` calls to take advantage. 
 
 ### References
 
