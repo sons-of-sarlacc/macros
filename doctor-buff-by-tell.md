@@ -143,7 +143,7 @@ I am currently in the middle of a buff session. Please send a tell when this ses
 Thank you for your support!
 ```
 
-### Cantina & compulsory item placement (Bacta)
+### Compulsory item placement (Bacta)
 I have crafted a Healthpack and named it "Bacta" as my no-buff target. 
 
 ### Droid
