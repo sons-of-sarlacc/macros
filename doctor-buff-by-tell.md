@@ -61,7 +61,7 @@ Checks to see if someone sent a tell. Change all instances of `<name>` to your c
 ```
 
 ### docBuff
-Runs buff cycle.
+Runs buff cycle. Replace `/tar Bacta;` with the name of a named, static item placed in the building. I use a crafted medical component named Bacta.
 
 ```
 /:b;
