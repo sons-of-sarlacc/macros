@@ -20,8 +20,8 @@ You can replace `harvest` and `harvest corpse` with `harvest <resource type>` an
 
 ### justHarvestMeat
 ```
-/harvest;
-/harvest corpse;
+/harvest meat;
+/harvest corpse meat;
 /pause 1;
 /macro justHarvestMeat;
 ```
