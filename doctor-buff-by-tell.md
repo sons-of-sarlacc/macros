@@ -1,7 +1,7 @@
 # Doctor: Buff by tell
 
 ## Introduction
-Built on the shoulders of wookies. This macro will doctor buff on tell. Needs improvement for pulling droid, eating bivoli and havla. 
+Built on the shoulders of wookies. This macro will doctor buff on tell. Needs improvement for eating bivoli and havla. 
 
 ## Alias
 You only need to run the alias once per session. Change all instances of `<name>` to your character's name.
