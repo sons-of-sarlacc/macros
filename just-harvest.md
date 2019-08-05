@@ -32,8 +32,7 @@ The old style macro, will only harvets what's clicked. Replace `<resource type` 
 
 ```
 /harvest <resource type>;
-/pause .5;
 /harvest;
-/pause .5;
+/pause 1;
 /macro harvest;
 ```
