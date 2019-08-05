@@ -28,7 +28,7 @@ You can replace `harvest` and `harvest corpse` with `harvest <resource type>` an
 
 ### harvest
 
-The old style macro, will only harvets what's clicked. Replace `<resource type` with `meat`, `bone` or `hide` as required. The following `/harvest` is a catchall in case the mob you are harvesting does not contain `<resource type>`.
+The old style macro, will only harvest what's clicked. Replace `<resource type` with `meat`, `bone` or `hide` as required. The following `/harvest` is a catchall in case the mob you are harvesting does not contain `<resource type>`.
 
 ```
 /harvest <resource type>;
