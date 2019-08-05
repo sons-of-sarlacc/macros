@@ -3,8 +3,11 @@
 ## Introduction
 Built on the shoulders of wookies. This macro will doctor buff on tell. Needs improvement for eating bivoli and havla. 
 
+## Copy & Paste
+Star Wars Galaxies allows you to bind copy and paste in `Options > Controls > Keymap > chat (tab)` you can bind keys to `Chat Edit Copy, Chat Edit Cut, Chat Edit Paste`. If you bind a key for `Chat Edit Paste` you can copy the alias's and macro's below and use your keybind to paste them into the Star Wars Galaxies client.
+
 ## Alias
-You only need to run the alias once per session. Replace `<name>` with your character's name.
+Run each of the alias lines in your chat window. You only need to run the alias's once per session. Replace `<name>` with your character's name.
 
 ```
 /alias :a /alias <name> /ui action toolbarPane04;/pause 4;/ui action toolbarPane05
