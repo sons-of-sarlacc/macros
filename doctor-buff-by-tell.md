@@ -40,7 +40,7 @@ Respect the server spam rules and don't advertise more often than every 3 minute
 ```
 
 ### docResponse
-Checks to see if someone sent a tell.
+Checks to see if someone sent a tell. Change all instances of `<name>` to your character's name.
 
 ```
 /ui action startChatReply;
@@ -62,8 +62,9 @@ Checks to see if someone sent a tell.
 
 ### docBuff
 Runs buff cycle.
-* If you put a Medical Droid on `toolbarPane05` > `toolbarSlot09` it will be called and dismissed when there is a valid buff customer
-* Put Bivoli and Havla on `toolbarPane05` > `toolbarSlot08` & `toolbarSlot07` they will be used when there is a valid buff customer. 
+* If you put a Medical Droid on `toolbarPane05` > `toolbarSlot10` it will be called and dismissed when there is a valid buff customer.
+* Put Bivoli  on `toolbarPane05` > `toolbarSlot09` to consume Bivoli when there is a valid customer.
+* Put Havla on `toolbarPane05` > `toolbarSlot08` to consome Havla when there is a valid customer.
 
 ```
 /:b;
@@ -77,11 +78,11 @@ Runs buff cycle.
 /ui action chatEnter;
 /pause 1;
 /say Beginning buffs now.;
-/ui action toolbarSlot10;
+/ui action toolbarSlot10; <-- Droid
 /pause .5;
-/ui action toolbarSlot09;
+/ui action toolbarSlot09; <-- Bivoli
 /pause .5;
-/ui action toolbarSlot08;
+/ui action toolbarSlot08; <-- Havala
 /pause .5;
 /ui action toolbarPane04;
 /pause 1;
@@ -110,7 +111,7 @@ Runs buff cycle.
 
 ### Toolbar
 
-* Set sixth pane, toolbarSlot11 to the docBUFF macro.
+* Set fifth pane, toolbarSlot11 to the docBUFF macro.
 * Set fifth pane, toolbarSlot11 to Empty.
 * Set sixth pane, toolbarSlot10 to your Medical Droid.
 * Set sixth pane, toolbarSlot09 to your Bivoli. 
