@@ -107,14 +107,16 @@ Runs buff cycle.
 ## UI settings
 
 ### Toolbar
-* Drag `docBuff` macro to `toolbarPane05` > `toolbarSlot11`
-* If you put a Medical Droid on `toolbarPane05` > `toolbarSlot10` it will be called and dismissed when there is a valid buff customer.
-* Put Bivoli  on `toolbarPane05` > `toolbarSlot09` to consume Bivoli when there is a valid customer.
-* Put Havla on `toolbarPane05` > `toolbarSlot08` to consome Havla when there is a valid customer.
-* Ensure `toolbarPane04` > `toolbarSlot11` is empty. 
-* Ensure `toolbarPane04` > `toolbarSlot10` is empty. 
-* Ensure `toolbarPane04` > `toolbarSlot09` is empty. 
-* Ensure `toolbarPane04` > `toolbarSlot08` is empty. 
+The `toolbarPane` counts from 0 - 5 (representing bar's 1 to 6). This can be confusing. The `toolbarSlot` counts from 0 - 23 (0 - 11 being the 12 buttons on the top row, and 12 -23 representing the 12 buttons on the bottom row). This can also be confusing.
+
+* Drag `docBuff` macro to `toolbarPane05` > `toolbarSlot11` (bar 6, button 12 of the top row)
+* If you put a Medical Droid on `toolbarPane05` > `toolbarSlot10` (bar 6, button 11) it will be called and dismissed when there is a valid buff customer.
+* Put Bivoli  on `toolbarPane05` > `toolbarSlot09` (bar 6, button 10) to consume Bivoli when there is a valid customer.
+* Put Havla on `toolbarPane05` > `toolbarSlot08` (bar 6, button 9) to consome Havla when there is a valid customer.
+* Ensure `toolbarPane04` > `toolbarSlot11` is empty (bar 5, button 11). 
+* Ensure `toolbarPane04` > `toolbarSlot10` is empty (bar 5, button 10). 
+* Ensure `toolbarPane04` > `toolbarSlot09` is empty (bar 5, button 09). 
+* Ensure `toolbarPane04` > `toolbarSlot08` is empty (bar 5, button 08). 
 
 ### Bio
 In `Community > Character > Biography` set an appropriate message.
