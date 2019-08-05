@@ -15,7 +15,7 @@ You only need to run the alias once per session. Change all instances of "name" 
 ## Macro
 Create the following macros exactly as written. Change all instances of "name" to your character's name.
 
-### docBuffStart
+### docStart
 Starts macros running.
 ``` 
 /:a;
