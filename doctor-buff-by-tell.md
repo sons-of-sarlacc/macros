@@ -4,18 +4,18 @@
 Built on the shoulders of wookies. This macro will doctor buff on tell. Needs improvement for pulling droid, eating bivoli and havla. 
 
 ## Alias
-You only need to run the alias once per session. Change all instances of "name" to your character's name.
+You only need to run the alias once per session. Change all instances of `<name>` to your character's name.
 
 ```
-/alias :a /alias name /ui action toolbarPane04;/pause 4;/ui action toolbarPane05
+/alias :a /alias <name> /ui action toolbarPane04;/pause 4;/ui action toolbarPane05
 
-/alias :b /alias name /setmood
+/alias :b /alias <name> /setmood
 
 /alias ll /target
 ```
 
 ## Macro
-Create the following macros exactly as written. Change all instances of "name" to your character's name.
+Create the following macros exactly as written. Change all instances of `<name>` to your character's name.
 
 ### docStart
 Starts macros running.
@@ -24,7 +24,7 @@ Starts macros running.
 /pause 1;
 /macro docAdvertise;
 /pause 1;
-/tell name Clearing target.;
+/tell <name> Clearing target.;
 /pause 1;
 /tar Bacta;
 /macro docResponse;
@@ -55,7 +55,7 @@ Checks to see if someone sent a tell.
 /pause .5;
 /ui action toolbarSlot11;
 /pause 1;
-/tell name Clearing target.;
+/tell <name> Clearing target.;
 /pause 10;
 /macro docResponse;
 ```
