@@ -79,7 +79,7 @@ Runs buff cycle.
 /pause .5;
 /ui action toolbarSlot09;
 /pause .5;
-/tellpet gp;
+/tellpet group;
 /pause .5;
 /ui action toolbarSlot08;
 /pause .5;
