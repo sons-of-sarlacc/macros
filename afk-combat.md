@@ -8,6 +8,8 @@ This macro will find a target every 15 seconds and throw an intimidate at it. Yo
 
 It is not intended for at keyboard combat automation. It's intended use is afk farming static spawns outside of majour NPC cities. No buffs required, but reasonable armour minisuit probably mandatory. 
 
+Because the macro always targets you first at the start of the loop, the cycleTargetOutward will always land on the nearest enemy. 
+
 ### afk
 ```
 /tar self;
