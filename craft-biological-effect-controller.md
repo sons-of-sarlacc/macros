@@ -1,3 +1,7 @@
+# Introduction
+
+Place 5 food and chemical crafting tools in the first 5 slots of your current toolbar. the macro will craft biological effect controllers with a 5 second pause to input materials.
+
 ```
 /ui action toolbarSlot00;
 /selectDraftSchematic 00;
