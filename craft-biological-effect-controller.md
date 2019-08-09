@@ -4,6 +4,7 @@ Place 5 food and chemical crafting tools in the first 5 slots of your current to
 
 The schematic number is correct if medic is the only prof you have that grants crafting recipies, otherwise you will need to adjust for your toons. 
 
+### craftBEC
 ```
 /ui action toolbarSlot00;
 /selectDraftSchematic 00;
