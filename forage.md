@@ -1,8 +1,8 @@
 
-name: forage
+name: medforage
 
 ```
 /medicalforage;
 /pause 10;
-/macro forage;
+/macro medforage;
 ```
