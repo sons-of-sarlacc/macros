@@ -30,3 +30,32 @@ name: sample
 /pause 25; 
 /macro sample;
 ```
+
+If your action secondaries are 400+ you won't need to sit, which can stop your character wondering the landscape:
+
+```
+/sample;
+/pause 1;
+/sample;
+/pause 13.5;
+/macro sampleTime;
+```
+
+Add the `/ui action defaultButton;` if you are afk and want to auto click away the minigame.
+
+Mobyus version:
+
+name: surveymacro
+
+```
+/stand;
+/pause 2;
+/sample;
+/pause 6;
+/stand;
+/pause 2;
+/sit;
+/pause 17;
+/macro surveymacro
+```
+
