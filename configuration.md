@@ -15,3 +15,7 @@ Find the `user.cfg` file in the SWGEmu client installation folder (or create it 
 [ClientGame]
 freeChaseCameraMaximumZoom=6
 ```
+
+## references
+
+[SWGEmuEdu - Ep.99 - Changing the Maximum Zoom Range (Mobyus1)](https://www.youtube.com/watch?v=-gZpskSlXhs)
