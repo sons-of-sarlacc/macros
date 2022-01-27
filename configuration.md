@@ -16,6 +16,11 @@ Find the `user.cfg` file in the SWGEmu client installation folder (or create it 
 freeChaseCameraMaximumZoom=6
 ```
 
+
+## in game features
+
+You can spin the camera around your character by pressing `ctrl` + `shift` + `s`, this option does not show up in the in-game keybindings.
+
 ## references
 
 [SWGEmuEdu - Ep.99 - Changing the Maximum Zoom Range (Mobyus1)](https://www.youtube.com/watch?v=-gZpskSlXhs)
