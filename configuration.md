@@ -33,4 +33,5 @@ Use `always` in place of `never` if you prefer the game to change the brightness
 
 ## references
 
-[SWGEmuEdu - Ep.99 - Changing the Maximum Zoom Range (Mobyus1)](https://www.youtube.com/watch?v=-gZpskSlXhs)
+* [SWGEmuEdu - Ep.99 - Changing the Maximum Zoom Range (Mobyus1)](https://www.youtube.com/watch?v=-gZpskSlXhs)
+* [Adjust brightness/contrast in game under Mac CX 11 and 12](https://www.codeweavers.com/compatibility/crossover/tips/deus-ex/adjust-brightness-contrast-in-game-under-mac-cx-11-and-12)
