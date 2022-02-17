@@ -21,6 +21,16 @@ freeChaseCameraMaximumZoom=6
 
 You can spin the camera around your character by pressing `ctrl` + `shift` + `s`, this option does not show up in the in-game keybindings.
 
+## crossover
+
+To stop the gamma being set by the game when using crossover on MacOS use the following command in the terminal:
+
+```
+defaults write com.codeweavers.CrossOver AllowGamma never
+```
+
+Use `always` in place of `never` if you prefer the game to change the brightness.
+
 ## references
 
 [SWGEmuEdu - Ep.99 - Changing the Maximum Zoom Range (Mobyus1)](https://www.youtube.com/watch?v=-gZpskSlXhs)
