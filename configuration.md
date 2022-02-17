@@ -23,7 +23,7 @@ You can spin the camera around your character by pressing `ctrl` + `shift` + `s`
 
 ## crossover
 
-To stop the gamma being set by the game when using crossover on MacOS use the following command in the terminal:
+To stop the gamma being set by the game when using [crossover](https://www.codeweavers.com/crossover/) on MacOS use the following command in the terminal:
 
 ```
 defaults write com.codeweavers.CrossOver AllowGamma never
