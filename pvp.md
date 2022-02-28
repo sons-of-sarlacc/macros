@@ -5,7 +5,7 @@ Built on the shoulders of wookies.
 
 All the macros that start with `clearCombatQueue` will dump all pending attacks in your combat queue, effectively interrupting whatever you were doing previously. This is mostly applied to heals and state debuffing, it's worth noting that by specifying `self` we don't need to change target, which would otherwise futz with our pvp. 
 
-These macro's assume you have the standard Doctor `4x3x` as part of your template, otherwise some of these will not be available to you.
+These macro's assume you have the standard Doctor `4x3x` as part of your template, otherwise some of these will not be available to you, and the bleed is from Fencer. 
 
 ## Macros
 
