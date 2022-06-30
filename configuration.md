@@ -16,6 +16,14 @@ Find the `user.cfg` file in the SWGEmu client installation folder (or create it 
 freeChaseCameraMaximumZoom=6
 ```
 
+## mouse unlocked from game window
+
+In `options.cfg`:
+
+```
+[ClientGraphics]
+  constrainMouseCursorToWindow=0
+```
 
 ## in game features
 
