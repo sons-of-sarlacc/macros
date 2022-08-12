@@ -8,7 +8,7 @@ Write this into your chat bar and run once to create the entry in the `alias.txt
 /alias ll /invite
 ```
 
-invite2
+## Macro `invite2`
 
 ```
 /ui action startChatReply;
