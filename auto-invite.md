@@ -2,8 +2,10 @@ Auto Invite Macro
 
 Alias
 
+Write this into your chat bar and run once to create the entry in the `alias.txt` file.
+
 ```
-/alias ll /invite <----- Write this into your chat bar and run once to create the entry in the alias.txt file
+/alias ll /invite
 ```
 
 invite2
