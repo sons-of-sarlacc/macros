@@ -12,13 +12,10 @@ Because the macro always targets you first at the start of the loop, the cycleTa
 
 ### afk
 ```
-/tar self;
-/pause 1;
+/stand;
+/ui action targetSelf;
 /ui action cycleTargetOutward;
-/pause 1;
-/intimidate;
-/pause 1;
 /attack;
-/pause 12;
+/pause 2;
 /macro afk;
 ```
