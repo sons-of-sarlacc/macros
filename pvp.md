@@ -145,3 +145,11 @@ These macro's assume you have the standard Doctor `4x3x` as part of your templat
 /healStatesSelf;
 ```
 
+### Purge
+
+```
+/ui action clearCombatQueue;
+/healStatesSelf;
+/forceCurePoison self;
+/forceCureDisease self;
+```
