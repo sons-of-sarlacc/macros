@@ -86,53 +86,62 @@ These macro's assume you have the standard Doctor `4x3x` as part of your templat
 
 ```
 /ui action clearCombatQueue;
+/healHealthSelf;
 ```
 
 ### Heal Action Self
 
 ```
 /ui action clearCombatQueue;
+/healActionSelf;
 ```
 
 ### Heal Mind Self
 
 ```
 /ui action clearCombatQueue;
+/healMindSelf;
 ```
 
 ### Heal All Self
 
 ```
 /ui action clearCombatQueue;
+/healAllSelf;
 ```
 
 ### Total Heal Self
 
 ```
 /ui action clearCombatQueue;
+/totalHealSelf;
 ```
 
 ### Stop Bleeding
 
 ```
 /ui action clearCombatQueue;
+/stopBleeding self;
 ```
 
 ### Force Cure Disease
 
 ```
 /ui action clearCombatQueue;
+/forceCureDisease self;
 ```
 
 ### Force Cure Poison
 
 ```
 /ui action clearCombatQueue;
+/forceCurePoison self;
 ```
 
 ### Heal States Self
 
 ```
 /ui action clearCombatQueue;
+/healStatesSelf;
 ```
 
