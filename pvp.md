@@ -7,7 +7,7 @@ All the macros that start with `clearCombatQueue` will dump all pending attacks 
 
 These macro's assume you have the standard Doctor `4x3x` as part of your template, otherwise some of these will not be available to you, and the bleed is from Fencer. 
 
-## Macros
+## Doctor
 
 ### pvpCureDisease
 ```
@@ -45,6 +45,8 @@ These macro's assume you have the standard Doctor `4x3x` as part of your templat
 /healState self;
 ```
 
+## Combat
+
 ### pvpDeathblow
 ```
 /deathblow;
@@ -77,3 +79,60 @@ These macro's assume you have the standard Doctor `4x3x` as part of your templat
 /melee1hhealthhit2;
 /melee1hhealthhit1;
 ```
+
+## Force Healing
+
+### Heal Health Self
+
+```
+/ui action clearCombatQueue;
+```
+
+### Heal Action Self
+
+```
+/ui action clearCombatQueue;
+```
+
+### Heal Mind Self
+
+```
+/ui action clearCombatQueue;
+```
+
+### Heal All Self
+
+```
+/ui action clearCombatQueue;
+```
+
+### Total Heal Self
+
+```
+/ui action clearCombatQueue;
+```
+
+### Stop Bleeding
+
+```
+/ui action clearCombatQueue;
+```
+
+### Force Cure Disease
+
+```
+/ui action clearCombatQueue;
+```
+
+### Force Cure Poison
+
+```
+/ui action clearCombatQueue;
+```
+
+### Heal States Self
+
+```
+/ui action clearCombatQueue;
+```
+
