@@ -9,8 +9,8 @@ This macro will find a target every 15 seconds and throw an intimidate at it. It
 
 ### afkstatic
 ```
-/tar self;
-/pause 1;
+/stand;
+/ui action targetSelf;
 /ui action cycleTargetOutward;
 /pause 1;
 /intimidate;
