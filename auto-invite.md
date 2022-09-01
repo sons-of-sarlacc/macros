@@ -30,3 +30,4 @@ The `/tell` in the 3rd to last line sends yourself a message so you don't end up
 ## References
 
 * [Auto Invite Macro](https://swgprophecy.com/showthread.php?tid=727)
+* [Floman's Invite By Tell Macro - With Chat Logging](https://www.swgemu.com/forums/showthread.php?t=247605)
