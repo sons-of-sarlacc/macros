@@ -27,7 +27,7 @@ In `options.cfg`:
 
 ## in game features
 
-You can spin the camera around your character by pressing `ctrl` + `shift` + `s`, this option does not show up in the in-game keybindings.
+You can spin the camera around your character by pressing `ctrl` + `shift` + `s`, this option does not show up in the in-game keybindings. You can hide the UI with `ctrl` + `h`.
 
 ## crossover
 
