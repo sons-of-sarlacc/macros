@@ -45,3 +45,4 @@ Opening the settings from the launcher and closing it with no changes also reset
 
 * [SWGEmuEdu - Ep.99 - Changing the Maximum Zoom Range (Mobyus1)](https://www.youtube.com/watch?v=-gZpskSlXhs)
 * [Adjust brightness/contrast in game under Mac CX 11 and 12](https://www.codeweavers.com/compatibility/crossover/tips/deus-ex/adjust-brightness-contrast-in-game-under-mac-cx-11-and-12)
+* [copy keybindings](https://www.swgemu.com/forums/showthread.php?t=248471)
