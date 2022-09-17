@@ -37,7 +37,11 @@ To stop the gamma being set by the game when using [crossover](https://www.codew
 defaults write com.codeweavers.CrossOver AllowGamma never
 ```
 
-Use `always` in place of `never` if you prefer the game to change the brightness. You can also open the settings app and once you close it the brightness will reset, though this will need to be done each time you zone to a new location.
+To reverse the change:
+
+```
+defaults delete com.codeweavers.CrossOverGames AllowGamma
+```
 
 Opening the settings from the launcher and closing it with no changes also resets the gamma of the desktop.
 
