@@ -10,7 +10,7 @@ This macro will find a target every 15 seconds and throw an intimidate at it. It
 ### afkstatic
 ```
 /stand;
-/ui action targetSelf;
+/ui action untarget;
 /ui action cycleTargetOutward;
 /pause 1;
 /intimidate;
@@ -28,7 +28,7 @@ Because the macro always targets you first at the start of the loop, the cycleTa
 
 ```
 /stand;
-/ui action targetSelf;
+/ui action untarget;
 /ui action cycleTargetOutward;
 /attack;
 /pause 2;
