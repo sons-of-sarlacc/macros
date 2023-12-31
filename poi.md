@@ -1,3 +1,4 @@
+# POI Badge Guide
 
 ## Corellia
 
