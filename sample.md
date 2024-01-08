@@ -37,8 +37,9 @@ If your action secondaries are 400+ you won't need to sit, which can stop your c
 /sample;
 /pause 1;
 /sample;
-/pause 13.5;
-/macro sampleTime;
+/pause 24;
+/ui action defaultButton; 
+/macro sample;
 ```
 
 Add the `/ui action defaultButton;` if you are afk and want to auto click away the minigame.
