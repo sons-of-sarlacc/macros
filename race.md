@@ -1,5 +1,21 @@
 # Race
 
+## Human
+
+### Attributes
+
+| Attribute    | Min | Max  | Ideal |
+|--------------|-----|------|-------|
+| Health       | 400 | 1100 |       |
+| Strength     | 400 | 1100 |       |
+| Constitution | 400 | 1100 |       |
+| Action       | 400 | 1100 |       |
+| Quickness    | 400 | 1100 |       |
+| Stamina      | 400 | 1100 |       |
+| Mind         | 400 | 1100 |       |
+| Focus        | 400 | 1100 |       |
+| Willpower    | 400 | 1100 |       |
+
 ## Zabrak
 
 ### Attributes
