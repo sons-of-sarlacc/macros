@@ -37,3 +37,8 @@
 | Sneg the Hand     | Y (865)     | Tatooine  | -1.63376      |  7.35289 | Weapons | Inside Despot Cantina in Mos Eisley                                      |
 | Ollobo            | Y (865)     | Tatooine  | -6.2          |    134.3 | Weapons |  [1177466]  Inside Jabba's palace                                        |
 | junk_dealer       | Y           | Tatooine  |        3905.3 |   2362.9 | Generic |                                                                          |
+
+
+References
+
+- [Junk Dealers (Google Doc)](https://docs.google.com/spreadsheets/d/1S3zJ0d3frWbbz0rpM_YzlnR2hHganW0dz8IqOwz15po/edit#gid=0)
